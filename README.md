@@ -13,7 +13,7 @@
 
 ![open3389-1](./open3389-1.png "open3389-1")
 
-### 参考链接
+### 参考链接：
 * https://docs.microsoft.com/zh-cn/dotnet/api/microsoft.win32
 * https://docs.microsoft.com/zh-cn/dotnet/api/microsoft.win32.registrykeypermissioncheck
 * https://blog.csdn.net/zjlovety/article/details/38707333
