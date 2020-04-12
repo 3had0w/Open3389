@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Sharp3389\Sharp3389\Sharp3389\obj\Release\Sharp3389.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sharp3389\Sharp3389\Sharp3389\bin\Release\Sharp3389.exe
+C:\Users\Administrator\Desktop\Sharp3389\Sharp3389\Sharp3389\bin\Release\Sharp3389.pdb
+C:\Users\Administrator\Desktop\Sharp3389\Sharp3389\Sharp3389\obj\Release\Sharp3389.exe
+C:\Users\Administrator\Desktop\Sharp3389\Sharp3389\Sharp3389\obj\Release\Sharp3389.pdb
+C:\Users\Administrator\Desktop\Sharp3389\Sharp3389\Sharp3389\obj\Release\Sharp3389.csprojAssemblyReference.cache
