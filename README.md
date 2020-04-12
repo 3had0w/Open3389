@@ -14,9 +14,9 @@
 ![open3389-1](./open3389-1.png "open3389-1")
 
 ### 参考链接
-https://docs.microsoft.com/zh-cn/dotnet/api/microsoft.win32
-https://docs.microsoft.com/zh-cn/dotnet/api/microsoft.win32.registrykeypermissioncheck
-https://blog.csdn.net/zjlovety/article/details/38707333
-https://www.cnblogs.com/springsnow/p/9434010.html
-https://wenku.baidu.com/view/c72718b459f5f61fb7360b4c2e3f5727a4e92410.html
-https://www.c-sharpcorner.com/uploadfile/puranindia/the-windows-registry-in-C-Sharp/
+* https://docs.microsoft.com/zh-cn/dotnet/api/microsoft.win32
+* https://docs.microsoft.com/zh-cn/dotnet/api/microsoft.win32.registrykeypermissioncheck
+* https://blog.csdn.net/zjlovety/article/details/38707333
+* https://www.cnblogs.com/springsnow/p/9434010.html
+* https://wenku.baidu.com/view/c72718b459f5f61fb7360b4c2e3f5727a4e92410.html
+* https://www.c-sharpcorner.com/uploadfile/puranindia/the-windows-registry-in-C-Sharp/
